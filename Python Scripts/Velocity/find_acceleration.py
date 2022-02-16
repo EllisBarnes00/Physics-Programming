@@ -1,4 +1,4 @@
-# How quickly something is going in a direction
+# How quickly something is going (speed) in a direction
 # acceleration = change in velocity / time
 # ex. (60 km/hr) / 10 sec. = 6 (km/h)/s or 6 km/h/s 
 
