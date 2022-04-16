@@ -11,4 +11,4 @@ charge_2 = float(input("q2: "))
 distance = float(input("Distance (m): "))
 
 coulumbs = k * (((charge_1 * pow(10, -9)) * (charge_2 * pow(10, -9)) / pow(distance, 2)))
-print(f"C: {coulumbs:.2e}")
+print("C: {:.2e}".format(coulumbs))
