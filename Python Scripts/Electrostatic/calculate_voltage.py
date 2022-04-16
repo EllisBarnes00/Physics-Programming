@@ -11,4 +11,4 @@ amount_of_charge = int(input("Charge amount: "))
 
 voltage = electric_potential_energy/amount_of_charge
 
-print(f"Voltage/Electric Potential: {voltage} V")
+print("Voltage/Electric Potential: {0} V".format(voltage))
